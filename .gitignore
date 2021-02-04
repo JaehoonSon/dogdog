@@ -34,6 +34,4 @@ yarn-error.log*
 .vercel
 
 # misc
-package.json
 yarn.lock
-.gitignore
